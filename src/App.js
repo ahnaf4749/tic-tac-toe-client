@@ -8,11 +8,11 @@ import Register from './Componetnts/Pages/Register/Register';
 function App() {
   return (
     <div>
-      <NewGame></NewGame>
-      <Home></Home>
-      <Entry></Entry>
+      {/* <NewGame></NewGame> */}
+      {/* <Home></Home> */}
+      {/* <Entry></Entry> */}
       <Register></Register>
-      <Login></Login>
+      {/* <Login></Login> */}
     </div>
   );
 }
